@@ -44,3 +44,17 @@ Copyright 2017-present [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+May 17,2020 notes
+academic-kickstart repo contains content for jahoey.github.io website
+jahoey.github.io repo contains hosted site
+
+To make website updates, change content in academic-kickstart repo, either on GitHub then pull to local computer, or directly on on local computer. Then open Terminal and navigate to academic-kickstart directory. Then run:
+```hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
+cd ..```
+
+For more [info](https://sourcethemes.com/academic/docs/deployment)
