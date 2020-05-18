@@ -19,9 +19,6 @@ The demographic history of a population is important for conservation and evolut
 
 <img src="/static/img/rainbow_fish.jpg" alt="rainbow_fish" style="height: 100px; padding-left: 10px;" align="right">
 <div style="text-align: left">  
-
 ### Quantifying performance curves across a thermal gradient
-
-![rainbow_fish.jpg](/static/img/rainbow_fish.jpg =100x70)
 
 I am working with collaborators at the NOAA Sandy Hook Labratory in New Jersey to test for divergent thermal tolerance phenotypes in summer flounder larvae from either end of the species range, building from the genomic evidence of divergent selection that I previously found. We are quantifying the thermal performance curve of summer flounder by rearing eggs and larvae across a 20ºC thermal gradient.
