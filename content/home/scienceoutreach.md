@@ -13,7 +13,7 @@ comments: false  # Show comments?
 #   image: ""
 ---
 
-<img align="left" src="/static/img/nnocci.png" alt="nnocci" width="150"/> 
+<img align="right" src="/static/img/nnocci.png" alt="nnocci" width="200"/> 
 
 ### NNOCCI
 I am part of the Science Partnership Committee within the National Network for Ocean and Climate Change Interpretation [(NNOCCI)](https://climateinterpreter.org/about/projects/NNOCCI). I was previously a Science Fellow as part of the inaugural Northeast Study Circle in 2017. NNOCCI is a collaboration between informal educators, climate & ocean scientists and communication experts who work together to effectively frame and communicate ocean and climate change science. For useful tools, ideas and events related to communicating ocean and climate change science, check out the [Climate Interpreter website](https://climateinterpreter.org/).
