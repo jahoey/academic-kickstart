@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jahoey13@gmail.com"
+  link: "mailto:jhoey@ucsc.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jahoey13
