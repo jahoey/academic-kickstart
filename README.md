@@ -45,7 +45,8 @@ Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
-May 17,2020 notes
+May 17, 2020 notes
+January 5, 201 updated
 
 academic-kickstart repo contains content for jahoey.github.io website
 
@@ -58,6 +59,7 @@ cd public
 git add .
 git commit -m "Build website"
 git push origin master
+  Enter username and token when prompted
 cd ..
 ```
 
